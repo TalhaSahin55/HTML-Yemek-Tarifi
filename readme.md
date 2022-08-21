@@ -1,5 +1,5 @@
 # YEMEK TARİFİ
-patika.dev adresindeki eğitimimize devam... HTML temel etiketleri geçmişte öğrenmiştim. Şimdi ise öğretilenin ötesinde CSS'e hazırlık niteliğinde bir ödev. Bu ödevimde sevdiğim bir yemeğin tarifini öğrendiğimiz bir web sitesini, HTML etiketlerini kullanarak yazmaya çalıştım. İncelediğiniz için teşekkürler...
+www.patika.dev adresindeki eğitimimize devam... HTML temel etiketleri geçmişte öğrenmiştim. Şimdi ise öğretilenin ötesinde CSS'e hazırlık niteliğinde bir ödev. Bu ödevimde sevdiğim bir yemeğin tarifini öğrendiğimiz bir web sitesini, HTML etiketlerini kullanarak yazmaya çalıştım. İncelediğiniz için teşekkürler...
 
 Araştırdıklarım/Öğrendiklerim:
 * Arkaplan rengini değiştirmek istediğimde "body" etiketine "bgcolor="renk ismi"" şeklinde istediğimiz rengi atayabiliyoruz.
